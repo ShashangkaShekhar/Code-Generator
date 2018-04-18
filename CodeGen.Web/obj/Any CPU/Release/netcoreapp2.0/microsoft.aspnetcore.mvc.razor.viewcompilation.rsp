@@ -1,0 +1,5 @@
+E:\CodeGen-Master\CodeGen-Master\CodeGen.Web
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=CodeGen.Web
+--content-root=E:\CodeGen-Master\CodeGen-Master\CodeGen.Web
+--file=

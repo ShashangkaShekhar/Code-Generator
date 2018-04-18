@@ -1,0 +1,74 @@
+C:\Users\Shashangka\source\repos\CodeGen\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.deps.json
+C:\Users\Shashangka\source\repos\CodeGen\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.runtimeconfig.json
+C:\Users\Shashangka\source\repos\CodeGen\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.runtimeconfig.dev.json
+C:\Users\Shashangka\source\repos\CodeGen\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.dll
+C:\Users\Shashangka\source\repos\CodeGen\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.pdb
+C:\Users\Shashangka\source\repos\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.csproj.CoreCompileInputs.cache
+C:\Users\Shashangka\source\repos\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.AssemblyInfoInputs.cache
+C:\Users\Shashangka\source\repos\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.AssemblyInfo.cs
+C:\Users\Shashangka\source\repos\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.dll
+C:\Users\Shashangka\source\repos\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.pdb
+C:\Users\Shashangka\source\repos\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.csprojResolveAssemblyReference.cache
+D:\Work\CodeGen\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.deps.json
+D:\Work\CodeGen\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.runtimeconfig.json
+D:\Work\CodeGen\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.runtimeconfig.dev.json
+D:\Work\CodeGen\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.dll
+D:\Work\CodeGen\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.pdb
+D:\Work\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.csproj.CoreCompileInputs.cache
+D:\Work\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.AssemblyInfoInputs.cache
+D:\Work\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.AssemblyInfo.cs
+D:\Work\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.dll
+D:\Work\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.pdb
+D:\Work\CGen\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.deps.json
+D:\Work\CGen\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.runtimeconfig.json
+D:\Work\CGen\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.runtimeconfig.dev.json
+D:\Work\CGen\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.dll
+D:\Work\CGen\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.pdb
+D:\Work\CGen\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.csproj.CoreCompileInputs.cache
+D:\Work\CGen\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.AssemblyInfoInputs.cache
+D:\Work\CGen\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.AssemblyInfo.cs
+D:\Work\CGen\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.dll
+D:\Work\CGen\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.pdb
+C:\Users\onAir\Downloads\CodeGen-Master\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.deps.json
+C:\Users\onAir\Downloads\CodeGen-Master\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.runtimeconfig.json
+C:\Users\onAir\Downloads\CodeGen-Master\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.runtimeconfig.dev.json
+C:\Users\onAir\Downloads\CodeGen-Master\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.dll
+C:\Users\onAir\Downloads\CodeGen-Master\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.pdb
+C:\Users\onAir\Downloads\CodeGen-Master\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.csproj.CoreCompileInputs.cache
+C:\Users\onAir\Downloads\CodeGen-Master\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.AssemblyInfoInputs.cache
+C:\Users\onAir\Downloads\CodeGen-Master\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.AssemblyInfo.cs
+C:\Users\onAir\Downloads\CodeGen-Master\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.dll
+C:\Users\onAir\Downloads\CodeGen-Master\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.pdb
+C:\Users\onAir\Downloads\CodeGen-Master\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.csprojResolveAssemblyReference.cache
+E:\CodeGen-Master\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.deps.json
+E:\CodeGen-Master\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.runtimeconfig.json
+E:\CodeGen-Master\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.runtimeconfig.dev.json
+E:\CodeGen-Master\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.dll
+E:\CodeGen-Master\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.pdb
+E:\CodeGen-Master\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.csproj.CoreCompileInputs.cache
+E:\CodeGen-Master\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.AssemblyInfoInputs.cache
+E:\CodeGen-Master\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.AssemblyInfo.cs
+E:\CodeGen-Master\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.dll
+E:\CodeGen-Master\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.pdb
+D:\New folder\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.deps.json
+D:\New folder\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.runtimeconfig.json
+D:\New folder\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.runtimeconfig.dev.json
+D:\New folder\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.dll
+D:\New folder\CodeGen-Master\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.pdb
+D:\New folder\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.csprojResolveAssemblyReference.cache
+D:\New folder\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.csproj.CoreCompileInputs.cache
+D:\New folder\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.AssemblyInfoInputs.cache
+D:\New folder\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.AssemblyInfo.cs
+D:\New folder\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.dll
+D:\New folder\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.pdb
+D:\Work\CGen\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.csprojResolveAssemblyReference.cache
+D:\Work\CGen\CodeGen\CodeGen\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.deps.json
+D:\Work\CGen\CodeGen\CodeGen\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.runtimeconfig.json
+D:\Work\CGen\CodeGen\CodeGen\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.runtimeconfig.dev.json
+D:\Work\CGen\CodeGen\CodeGen\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.dll
+D:\Work\CGen\CodeGen\CodeGen\CodeGen.Web\bin\Debug\netcoreapp2.0\CodeGen.Web.pdb
+D:\Work\CGen\CodeGen\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.csproj.CoreCompileInputs.cache
+D:\Work\CGen\CodeGen\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.AssemblyInfoInputs.cache
+D:\Work\CGen\CodeGen\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.AssemblyInfo.cs
+D:\Work\CGen\CodeGen\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.dll
+D:\Work\CGen\CodeGen\CodeGen\CodeGen.Web\obj\Debug\netcoreapp2.0\CodeGen.Web.pdb

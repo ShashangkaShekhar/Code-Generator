@@ -1,0 +1,3 @@
+E:\CodeGen-Master\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp1.1\CodeGen.Web.csproj.CoreCompileInputs.cache
+E:\CodeGen-Master\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp1.1\CodeGen.Web.AssemblyInfoInputs.cache
+E:\CodeGen-Master\CodeGen-Master\CodeGen.Web\obj\Debug\netcoreapp1.1\CodeGen.Web.AssemblyInfo.cs

@@ -30,19 +30,19 @@ public class #APiController : Controller
     [HttpGet, Route("GetByID/{id}")]
     public async Task<#Entity> GetByID(int id)
     {
-        #Entity object = null;
+        #Entity obj = null;
         try
         {
             using (_ctx)
             {
-                object = await _ctx.#Entity.FirstOrDefaultAsync(x => x.Id == id);
+                obj = await _ctx.#Entity.FirstOrDefaultAsync(x => x.Id == id);
             }
         }
         catch (Exception ex)
         {
             ex.ToString();
         }
-        return object;
+        return obj;
     }
 
 
